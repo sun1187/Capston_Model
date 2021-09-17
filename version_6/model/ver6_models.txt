@@ -1,0 +1,9 @@
+The models are uploaded to Google Drive.
+Please go to the following link and download them:
+
+ver6_men_model.h5
+https://drive.google.com/file/d/1dtBaWHGiKOZBOM03zw8NZrBpGQASogWG/view?usp=sharing
+
+
+ver6_women_model.h5
+https://drive.google.com/file/d/1-_AIbDyZWHuhBlerHpMX6CP9KnP24BF-/view?usp=sharing
