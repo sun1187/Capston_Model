@@ -7,7 +7,8 @@ There are times when there is no hospital in the area near the residence, it is 
 
 # User's Point of View:
 The approximate workflow is as follows. Based on the basic information entered by the user, major symptoms are predicted, and additional symptom information is input through questions corresponding to the predicted major symptoms to predict and show the three most likely diseases.
-*There are 27 Major Sypmtoms and about 200 diseases in data.
+
+* There are 27 Major Sypmtoms and about 200 diseases in data.
 
 <img width="780" alt="스크린샷 2021-10-23 오후 11 56 11" src="https://user-images.githubusercontent.com/70509258/138561444-b9c8bd8f-3fff-4f35-8ac2-1bdf41c2e4fc.png">
 
