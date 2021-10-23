@@ -17,7 +17,7 @@ The approximate workflow is as follows. Based on the basic information entered b
 |:---:|:---:|:---:|
 |Multinomial Naive Bayes|0.92|0.92|
 |Support Vector Machine|0.95|0.94|
-|<span style="color:red">Random Forest Classifier</span>|<span style="color:red">0.96</span>|<span style="color:red">0.96</span>|
+|**Random Forest Classifier**|**0.96**|**0.96**|
 |Decision Tree Classifier|0.94|0.95|
 
 # Structure of Disease Predicting Models:
