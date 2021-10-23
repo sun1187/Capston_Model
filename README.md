@@ -17,7 +17,7 @@ The structure model is as follows. Reflects the context by adding lstm, applies 
 
 # Evaluation
 |Model|Test Acc|Test F1-Score|Top3 Hitrate|
-|:---:|:---:|:---:|:---:]|
+|:---:|:---:|:---:|:---:|
 |Model 1 (For Male)|0.82|0.88|0.91|
 |Model 2 (For Female)|0.80|0.87|0.91|
 
