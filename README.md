@@ -1,5 +1,3 @@
-
-
 The latest model is in folder 'version_6'.
 
 <img width="828" alt="스크린샷 2021-10-23 오후 11 17 54" src="https://user-images.githubusercontent.com/70509258/138560537-95a1d486-4c11-4321-b275-fb0b9d83e94e.png">
@@ -21,6 +19,7 @@ The structure model is as follows. Reflects the context by adding lstm, applies 
 |Model 1 (For Male)|0.82|0.88|0.91|
 |Model 2 (For Female)|0.80|0.87|0.91|
 
+# Result
 <img width="747" alt="스크린샷 2021-10-23 오후 11 25 10" src="https://user-images.githubusercontent.com/70509258/138560819-7ac2fbb4-1f5b-4a9b-bb85-b82699890909.png">
 <img width="412" alt="스크린샷 2021-10-23 오후 11 25 06" src="https://user-images.githubusercontent.com/70509258/138560820-d1a743ce-307e-441a-871f-a93a8c3d213d.png">
 
