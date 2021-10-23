@@ -10,10 +10,18 @@ The approximate workflow is as follows. Based on the basic information entered b
 
 <img width="780" alt="스크린샷 2021-10-23 오후 11 56 11" src="https://user-images.githubusercontent.com/70509258/138561444-b9c8bd8f-3fff-4f35-8ac2-1bdf41c2e4fc.png">
 
-# Structure of Models:
-The structure model is as follows. Reflects the context by adding lstm, applies three different filters in cnn, goes through dropout and dense layers to prevent maxpooling 1d, concatenate and multiple overfitting, and predicts the disease with a softmax activation function. In addition, Model 1 was slightly lower than Model 2, so the part that connected lstm and cnn was added to supplement it.
+# Results of Major Symptom Prediction Model:
+|Model|Test Acc|Test F1-Score|
+|:---:|:---:|:---:|
+|Multinomial Naive Bayes|0.92|0.92|
+|Support Vector Machine|0.95|0.94|
+|<span style="color:red">Random Forest Classifier</span>|<span style="color:red">0.96</span>|<span style="color:red">0.96</span>|
+|Decision Tree Classifier|0.94|0.95|
 
-# Evaluation
+# Structure of Disease Predicting Models:
+The structure model is as follows. Reflects the context by adding lstm, applies three different filters in cnn, goes through dropout and dense layers to prevent maxpooling 1d, concatenate and multiple overfitting, and predicts the disease with a softmax activation function. In addition, Model 1 was slightly lower than Model 2, so the part that connected lstm and cnn was added to supplement it.
+27 major sypmtoms and 
+## Evaluation
 |Model|Test Acc|Test F1-Score|Top3 Hitrate|
 |:---:|:---:|:---:|:---:|
 |Model 1 (For Male)|0.82|0.88|0.91|
