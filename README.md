@@ -6,7 +6,7 @@ The latest model is in folder 'version_6'.
 There are times when there is no hospital in the area near the residence, it is difficult for the patient to visit the hospital due to the burden of medical expenses, or when they want to receive medical treatment quickly and conveniently due to the burden of visiting in person. Through this, We thought it would be nice to have a service that provides simple non-face-to-face diagnosis through chatbots. Accordingly, based on the theme of developing a chatbot customized and symptom-disease prediction algorithm, our team worked on a project to develop an algorithm that can predict diseases through a machine learning model when patients enter information about symptoms.
 
 # User's Point of View:
-The approximate workflow is as follows. Based on the basic information entered by the user, major symptoms are predicted, and additional symptom information is input through questions corresponding to the predicted major symptoms to predict and show the three most likely diseases.
+The approximate workflow is as follows. Based on the basic information entered by the user, major symptoms are predicted, and additional symptom information is input through questions corresponding to the predicted major symptoms to predict and show the three most likely diseases (Top3).
 
 * There are 27 Major Sypmtoms and about 200 diseases in data.
 
